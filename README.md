@@ -2,12 +2,6 @@
 
 # Project 1 – Operating Systems: Binary Hash Table
 
-**Name**: Rupal Palodkar  
-**Student ID**: 24612657  
-**Class**: CSE 340 – Operating Systems  
-**Professor**: [Insert Name]  
-**Semester**: Spring 2024
-
 ---
 
 ## About the Project
